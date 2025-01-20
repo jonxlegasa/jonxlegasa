@@ -29,7 +29,7 @@ Golang, HTMX, Redis
 ## 📚 Bento Box
 
 Curated tools and resources:
-[**My Bento Box**](#https://bento.me/jonxlegasa) <!-- Add your link here -->
+[**My Bento Box**](https://bento.me/jonxlegasa) <!-- Add your link here -->
 
 ## 🌐 Let's Connect
 
