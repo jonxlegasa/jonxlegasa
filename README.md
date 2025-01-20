@@ -9,7 +9,7 @@ Svelte, SvelteKit, FastAPI, Python, MongoDB
 - AI assistant for students in the OpenAI GPT store.
 - API toolbox for autonomous tool management.
 
-### **Catch the AI** (in progress)
+### **Catch the AI** 
 Svelte, SvelteKit, Go, Redis  
 - Social engineering game to identify the AI among players.
 - WebSockets and prompt engineering for chatroom interactions.
@@ -21,10 +21,10 @@ Golang, HTMX
 
 ## 🌱 Interests
 
-- **AI & Machine Learning**: Foundational papers, scaling intelligence.
+- **AI & Machine Learning**: Foundational papers, scaling intelligence, and AGI 🧠.
 - **Programming**: Actor-based concurrency, low-level systems.
-- **Web Development**: SvelteKit, HTMX.
-- **Mathematics**: Linear algebra, optimization.
+- **Web Development**: SvelteKit, HTMX, React, and open to learning more.
+- **Mathematics**: Everything in Math!!!
 
 ## 📚 Bento Box
 
