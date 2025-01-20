@@ -4,17 +4,17 @@ Hi! I'm a developer exploring machine learning, programming, and mathematics. Dr
 
 ## 🔭 Current Projects
 
-### **liburu.ai**
+### ### **liburu.ai** 🚀
 Svelte, SvelteKit, FastAPI, Python, MongoDB  
 - AI assistant for students in the OpenAI GPT store.
 - API toolbox for autonomous tool management.
 
-### **Catch the AI** 
+### ### **Catch the AI** 🎮🤖 
 Svelte, SvelteKit, Go, Redis  
 - Social engineering game to identify the AI among players.
 - WebSockets and prompt engineering for chatroom interactions.
 
-### **LLM Nations**
+### ### **LLM Nations** 🌍⚔️
 Golang, HTMX  
 - AI agents as nations engaging in strategic communication.
 - Golang server with dynamic HTMX updates showing actions.
@@ -34,3 +34,4 @@ Curated tools and resources:
 ## 🌐 Let's Connect
 
 Explore my projects, share ideas, or collaborate. Open to contributions and feedback!
+
