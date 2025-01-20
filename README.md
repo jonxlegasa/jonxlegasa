@@ -14,8 +14,8 @@ Svelte, SvelteKit, Go, Redis
 - Social engineering game to identify the AI among players.
 - WebSockets and prompt engineering for chatroom interactions.
 
-### 🌍⚔️ **LLM Nations** 
-Golang, HTMX  
+### 🌍⚔️ **LLM Nations**
+Golang, HTMX, Redis
 - AI agents as nations engaging in strategic communication.
 - Golang server with dynamic HTMX updates showing actions.
 
