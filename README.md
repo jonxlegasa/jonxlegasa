@@ -22,7 +22,7 @@ Golang, HTMX
 ## 🌱 Interests
 
 - **AI & Machine Learning**: Foundational papers, scaling intelligence, and AGI 🧠.
-- **Programming**: Actor-based concurrency, low-level systems.
+- **Programming**: Actor-based concurrency, low-level systems, full stack development.
 - **Web Development**: SvelteKit, HTMX, React, and open to learning more.
 - **Mathematics**: Everything in Math!!!
 
