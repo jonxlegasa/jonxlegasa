@@ -4,6 +4,11 @@ Hi! I'm a developer exploring machine learning, programming, and mathematics. Dr
 
 ## 🔭 Current Projects
 
+### **Polymath JR**
+Julia, PDEs and ODEs, Research
+- Toy models of fluid dynamics and Physics-informed neural networks
+- Going to JMM 2026!
+
 ### 🚀 **liburu.ai** 
 Svelte, SvelteKit, FastAPI, Python, MongoDB  
 - AI assistant for students in the OpenAI GPT store.
