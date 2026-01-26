@@ -1,42 +1,25 @@
-# Welcome to My Dev Space 🌟
+# HI! May name is Jon.
+Life long student exploring machine learning, programming, and mathematics. Building projects that interest me.
 
-Hi! I'm a developer exploring machine learning, programming, and mathematics. Driven by curiosity, I build projects that make an impact.
+## Projects
+[Polymath JR](https://github.com/jonxlegasa/polymathjr-pinns-jon-jeet)
+Physics-informed neural networks research. Going to JMM 2026!
 
-## 🔭 Current Projects
+[liburu.ai](https://github.com/jonxlegasa/liburu-website)
+AI assistant for students in the OpenAI GPT store. (work in progress).
 
-### **Polymath JR**
-Julia, PDEs and ODEs, Research
-- Toy models of fluid dynamics and Physics-informed neural networks
-- Going to JMM 2026!
+[Catch the AI](https://github.com/jonxlegasa/catch-the-ai-svelte-website)
+Social engineering game to identify the AI among players.
 
-### 🚀 **liburu.ai** 
-Svelte, SvelteKit, FastAPI, Python, MongoDB  
-- AI assistant for students in the OpenAI GPT store.
-- API toolbox for autonomous tool management.
+[LLM Battle Arena](https://github.com/jonxlegasa/llm-battle-arena)
+Measuring LLMs on long horizon tasks. (Soon to come)
 
-### 🎮🤖 **Catch the AI** 
-Svelte, SvelteKit, Go, Redis  
-- Social engineering game to identify the AI among players.
-- WebSockets and prompt engineering for chatroom interactions.
-
-### 🌍⚔️ **LLM Nations**
-Golang, HTMX, Redis
-- AI agents as nations engaging in strategic communication.
-- Golang server with dynamic HTMX updates showing actions.
-
-## 🌱 Interests
-
-- **AI & Machine Learning**: Foundational papers, scaling intelligence, and AGI 🧠.
-- **Programming**: Actor-based concurrency, low-level systems, full stack development.
-- **Web Development**: SvelteKit, HTMX, React, and open to learning more.
-- **Mathematics**: Everything in Math!!!
 
 ## 📚 Bento Box
 
 Curated tools and resources:
-[**My Bento Box**](https://bento.me/jonxlegasa) <!-- Add your link here -->
+[**My Bento Box**](https://bento.me/jonxlegasa)
 
 ## 🌐 Let's Connect
 
 Explore my projects, share ideas, or collaborate. Open to contributions and feedback!
-
