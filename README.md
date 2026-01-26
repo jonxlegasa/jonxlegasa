@@ -1,5 +1,5 @@
 # HI! My name is Jon.
-Life long student exploring machine learning, programming, and mathematics. Building projects that interest me.
+Life long student exploring physics, machine learning, software engineering, and mathematics. Building projects that interest me.
 
 ## Projects
 [Polymath JR PINNs](https://github.com/jonxlegasa/polymathjr-pinns-jon-jeet)
