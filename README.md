@@ -2,17 +2,17 @@
 Life long student exploring machine learning, programming, and mathematics. Building projects that interest me.
 
 ## Projects
-[Polymath JR](https://github.com/jonxlegasa/polymathjr-pinns-jon-jeet)
-Physics-informed neural networks research. Going to JMM 2026!
+[Polymath JR PINNs](https://github.com/jonxlegasa/polymathjr-pinns-jon-jeet)
+Physics-informed neural networks research. Presented findings at JMM 2026!
 
 [liburu.ai](https://github.com/jonxlegasa/liburu-website)
-AI assistant for students in the OpenAI GPT store. (work in progress).
+AI assistant. (We shall see where we go with this).
 
 [Catch the AI](https://github.com/jonxlegasa/catch-the-ai-svelte-website)
 Social engineering game to identify the AI among players.
 
 [LLM Battle Arena](https://github.com/jonxlegasa/llm-battle-arena)
-Measuring LLMs on long horizon tasks. (Soon to come)
+Measuring LLMs on long horizon tasks. (Clever twist on comparing llms)
 
 
 ## 📚 Bento Box
