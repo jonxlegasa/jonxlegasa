@@ -1,4 +1,4 @@
-# HI! May name is Jon.
+# HI! My name is Jon.
 Life long student exploring machine learning, programming, and mathematics. Building projects that interest me.
 
 ## Projects
