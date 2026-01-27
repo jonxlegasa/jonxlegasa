@@ -6,6 +6,9 @@ Life long student exploring physics, machine learning, software engineering, and
 🔬 [Polymath JR PINNs](https://github.com/jonxlegasa/polymathjr-pinns-jon-jeet)
 Physics-informed neural networks research. Presented findings at JMM 2026!
 
+🔬 [NN Viewer](https://github.com/jonxlegasa/nn-viewer)
+A custom tailored tool for the Polymath group to analyze PINNs during training and beyond.
+
 🤖 [liburu.ai](https://github.com/jonxlegasa/liburu-website)
 AI assistant. (We shall see where we go with this).
 
