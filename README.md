@@ -18,6 +18,8 @@ Social engineering game to identify the AI among players.
 ⚡ [LLM Battle Arena](https://github.com/jonxlegasa/llm-battle-arena)
 Measuring LLMs on long horizon tasks. (Clever twist on comparing llms)
 
+📋 [dataset-parser](https://github.com/ai-blaise/dataset-parser)
+Let us parse some data, shall we? An internal tool for exploring and transforming datasets containing AI conversation data. Provides CLI tools and an interactive TUI.
 
 ## 📚 Bento Box
 
